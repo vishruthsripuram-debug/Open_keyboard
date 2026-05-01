@@ -1,5 +1,6 @@
 # Nano pad
 A 4 key macro pad that you can program actions to.
+<img width="836" height="574" alt="Screenshot 2026-05-01 at 12 41 59 pm" src="https://github.com/user-attachments/assets/5d858c60-c8d6-4d94-99de-d2a331fe4b3d" />
 
 ## Design
 My inspiration for this macro pad was the printed pad by prota design but i wanted to make something smaller and cheaper than both of their offering the printed pad and glyff. The printed pad being $68 seemed quite unreasonable to me seeing as it was only a screen a few key swicthes and a microcontroller.
