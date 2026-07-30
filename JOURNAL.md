@@ -2,11 +2,11 @@
 
 **Time spent:** 4.5h
 
-# PCB Design
+## PCB Design
 
 ![Screenshot 2026-05-01 at 11.12.21 am](https://stasis.hackclub-assets.com/images/1777597944279-vqcco8.png)
 
-## Schematic
+### Schematic
 
 I first started with the schematic, for the schamitic i decided to follow the Hackpad guide for the switches and the microcontroller but i decided to add my own twist which was the screen. The screenis an adafruit oled display with screw mounting holes for mounting onto the pcb. The schamtic also included the seeeduino board used in the hackpad guide.
 
@@ -16,7 +16,7 @@ I had to do the schematic twice because for the first time i didnt properly conn
 
 *The wiring of the schematic was a bit messy because of the layout i used*
 
-## PCB editor
+### PCB editor
 
 Within the PCB editor is where i designed the main PCB, it took me a while to figure out that i had to assign footprints to the components in the schematic editor. I then placed all of the components in a desirable layout for the macropad making it simple and good looking fr the macropad. I realised the gap was quite significant when designing in fusion however I was able to fix this after the fact.
 
@@ -36,11 +36,11 @@ I designed the PCb case in fsion 360
 
 My inspiration for this macro pad was the printed pad by prota design but i wanted to make something smaller and cheaper than both of their offering the printed pad and glyff.
 
-## Step 1
+### Step 1
 
 I first exported the step file of my PC into fusion by exporting out of KIcad, here i encountered some errors explained in the previous journal entry where my routing want correct and the DRC wasnt approving my project to be exported due to those errors. Eventually i figured it out and exported it as a step file into fusion 360 where i opened a hybrid design file.
 
-## Step 2
+### Step 2
 
 ![Screenshot 2026-05-01 at 11.39.16 am](https://stasis.hackclub-assets.com/images/1777599562161-lb75ji.png)
 
@@ -53,7 +53,6 @@ I still have to make a cutout for the microcontroller mounted on the bottom and 
 I also have to design the top shell of the case similar to the prota design case.
 
 ---
-
 # 5/1/2026 - More fusion - Designing lid and adding keycaps
 
 **Time spent:** 1.166666666666667h
