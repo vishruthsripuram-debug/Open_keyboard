@@ -17,4 +17,6 @@ I wanted the project to be simple and easily accessible and customisable by many
 | PCB | To connect all components | 1 | $1.00 | [Link](#) | JLC PCB |
 | **Tax (USD)** | | | **$0.00** | | |
 
+## Software
+<img width="1171" height="697" alt="software" src="https://github.com/user-attachments/assets/c2d497b5-6434-459d-b071-70ca37bc7aba" />
 
