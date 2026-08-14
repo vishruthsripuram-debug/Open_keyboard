@@ -12,6 +12,8 @@ I first started with the schematic, for the schematic i decided to follow the Ha
 
 I had to do the schematic twice because for the first time i didnt properly connect the parts together in the schema so in the PCB editor when i was routing the routes weren't connecting.
 
+For the schematic my main concern was with the Tracing. finding the most optimal paths for the lines was incredibly difficult and arranging the traces. The traces were particularly hard to arrange with the ground line but i figured out that i could instead use the same extended ground line essentially piggy backing off of the other ground pins.
+
 ![Screenshot 2026-05-01 at 11.17.40 am](https://stasis.hackclub-assets.com/images/1777598264319-7dh9fj.png)
 
 *The wiring of the schematic was a bit messy because of the layout i used*
@@ -40,7 +42,10 @@ Step 1
 
 I first exported the step file of my PC into fusion by exporting out of KIcad, here i encountered some errors explained in the previous journal entry where my routing want correct and the DRC wasnt approving my project to be exported due to those errors. Eventually i figured it out and exported it as a step file into fusion 360 where i opened a hybrid design file.
 
-Step 2
+Chellenge
+The main challenge with the cad was making it look nice. The Macropad had to be simple and look nice, which was a key requirement. When i designed it it had smooth chamfers and fillets to reflect the design language i was aiming for. The black design refelcts the prota pad well. Further when designing i had to allow ample clearance between the keycaps for them to glide smoothly into the macropad when clicking. 
+
+Finding the correct Cad files for the 
 
 ![Screenshot 2026-05-01 at 11.39.16 am](https://stasis.hackclub-assets.com/images/1777599562161-lb75ji.png)
 
