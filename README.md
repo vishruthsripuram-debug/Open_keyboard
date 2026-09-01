@@ -20,5 +20,6 @@ I wanted the project to be simple and easily accessible and customisable by many
 ## Software
 <img width="1171" height="697" alt="software" src="https://github.com/user-attachments/assets/c2d497b5-6434-459d-b071-70ca37bc7aba" />
 
-## Notes
-I accidentally deleted Kicad while cleaning up my laptop and i don't have the PCB files anymore just gerbers and the 3D file.
+## Collaboration
+In collaboration with PCBWay
+<img width="2500" height="860" alt="image" src="https://github.com/user-attachments/assets/535d4313-0928-4a1c-ba73-91cac2d6da16" />
