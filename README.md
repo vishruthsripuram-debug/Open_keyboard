@@ -9,13 +9,13 @@ I wanted the project to be simple and easily accessible and customisable by many
 
 ## BOM
 
-| Name | Purpose | Qty | Total (USD) | Link | Distributor |
-| :--- | :--- | :---: | :---: | :--- | :--- |
-| Seeed Studio ESP32 C6 | Microcontroller | 1 | $5.00 | [Link](#) | DigiKey |
-| Key Switches | For the macropad buttons | 1 | $2.00 | [Link](#) | Keychron/AliExpress |
-| Screen | To display features | 1 | $2.50 | [Link](#) | AliExpress |
-| PCB | To connect all components | 1 | $1.00 | [Link](#) | JLC PCB |
-| **Tax (USD)** | | | **$0.00** | | |
+## Bill of Materials — Macro Pad
+
+| Item # | Designator | Qty | Manufacturer | Mfg Part # | Description / Value | Package/Footprint | Type | Notes |
+|---|---|---|---|---|---|---|---|---|
+| 1 | SW1, SW2, SW3, SW4 | 4 | Cherry (preferred) | MX1A-G1NW | MX Brown, tactile, PCB mount, 5-pin | SW_Cherry_MX_1.00u_PCB | THT | If out of stock, substitute OK: any 5-pin PCB-mount MX-compatible Brown tactile switch (e.g. Gateron KS-3 Brown, Kailh Box/MX Brown, Outemu Brown) — all fit this footprint |
+| 2 | U1 | 1 | DFRobot | DFR0648 | Fermion 0.91" 128x32 SSD1306 OLED, I2C, top-mounted pin header (OLED-B) | Module, pin header, THT | THT | Pins are on the short top edge, NOT the long side — confirm this exact pinout before substituting |
+| 3 | U2 | 1 | Seeed Studio | 101991470 | XIAO ESP32-C6 module (Tape and Reel, SMD variant) | SMD castellated module | SMD | — |
 
 ## Software
 <img width="1171" height="697" alt="software" src="https://github.com/user-attachments/assets/c2d497b5-6434-459d-b071-70ca37bc7aba" />
