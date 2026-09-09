@@ -1,4 +1,0 @@
-Item #,*Designator,*Qty,Manufacturer,*Mfg Part #,Description / Value,*Package/Footprint,Type,Your Instructions / Notes
-1,"SW1,SW2,SW3,SW4",4,Cherry,MX1A-G1NW,"CHERRY MX Brown, tactile, PCB mount, 5-pin",SW_Cherry_MX_1.00u_PCB,THT,
-2,U1,1,EastRising (buydisplay.com),ER-OLEDM0.91-1W-I2C,"0.91"" 128x32 SSD1306 OLED Display, I2C, white","Module, pin header, THT",THT,
-3,U2,1,Seeed Studio,101991470,"XIAO ESP32-C6 module (Tape and Reel, SMD variant)",SMD castellated module,SMD,
