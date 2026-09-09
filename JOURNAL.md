@@ -95,9 +95,3 @@ The configurator includes a live preview of the OLED inside the SVG macropad.
 
 ![Screenshot 2026-05-01 at 2.20.29 pm](https://stasis.hackclub-assets.com/images/1777609231818-z7pnq7.png)
 
-# 09/9/2026 - I developed the code and editing software for the macropad
-
-**Time spent:** 1.5h
-I used claude to vibecode the firmware for the clock. This is just a sample firmware so i made it not apply to any pins yet however soon i can add the pins once I buy all the components and start building.
-The clock has multiple files can have images uploaded to it and can ring an alarm to wake someone up, i also added animated icons and made a webpage for the same purpose.
-<img width="1419" height="710" alt="work screenshot" src="https://github.com/user-attachments/assets/80dcf640-eae6-4901-850b-3258eab22b64" />
